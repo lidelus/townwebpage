@@ -33,6 +33,7 @@ img {
 
 .hero {
 background-image: url("images/ashcroft.jpg");
+background-repeat: no-repeat;
 background-size: auto;
 background-attachment: fixed;
 background-position: center;
